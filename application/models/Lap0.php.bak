@@ -1,0 +1,12 @@
+<?php
+class Lap0 extends CI_Model
+{
+	function openfile()
+	{
+		$data = fopen('Lap0-testcase'); //testtesttesttesttest#testtesttesttesttest
+		return $data;
+	}
+	//testtesttesttesttest
+	//testtesttesttesttest
+}
+?>
